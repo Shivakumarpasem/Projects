@@ -1,0 +1,31 @@
+Hi,
+
+we can use Dollar cost averaging investments strategie , which means we can invest money at regular intervals based on the data. 
+
+There are 3 kinds of simulations in DCA , all three varies in their investments and returns. 
+
+Simulation 1 :
+Fixed DCA :
+
+In this simulation a constant amount is invested daily for a period of time.
+
+The returns may be low in this kind of scenario because as we invest daily,
+
+Simulation 2:
+In this simulation we invest $7 when the price increase from the previous day or $15 when the price decreases from the previous day. In this scenarion the End result will be higher when compared to 
+simulation1.
+
+Simulation 3:
+In this 3rd simulation we 
+Invest $10 if the price increases from previous day or we Invest $10*(Relative change%) if the price decreases. here Relative change means if there is 5% decrease in the previous day we can remove the 5% from the regular investment like we can invest $9.50.
+This helps the investors to get more profits.
+
+Conclusion:
+
+Based on the analysis performed and the simulations ran we can decide which coin to buy and how to invest based on the simulations.
+
+Here, we are not trying to predict which stock price is going to sky-rocket and which’s going to crash, but we are trying to analyze the previous existing data and leaving the investor to make an informed decision about their investment plans for the future
+
+Based on the results we got, it doesn’t seem to be a good time to invest in any cryptocurrencies among the five
+
+Similarily we can do for remaining cryptocurrencies and based on the results we can assume which crypto will be better for investing.
